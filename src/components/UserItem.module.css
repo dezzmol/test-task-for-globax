@@ -1,0 +1,17 @@
+.item {
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    height: 254px;
+    border-radius: 10px;
+    padding: 30px 30px;
+}
+
+.item h2 {
+    margin-top: 0;
+}
+
+.info_holder {
+    display: flex;
+    text-align: center;
+    margin-top: 10px;
+    gap: 10px
+}
