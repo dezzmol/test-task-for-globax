@@ -1,0 +1,14 @@
+.container {
+    width: 1120px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 50px auto;
+}
+
+.item_holder {
+    display: grid;
+    margin-top: 20px;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
